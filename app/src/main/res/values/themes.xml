@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Modulo5" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColor">@color/black</item>
+        <item name="colorPrimary">@color/azul</item>
+        <item name="colorSecondary">@color/verde</item>
+        <item name="android:background">@color/white</item>
+
+    </style>
+
+    <style name="Theme.Modulo5" parent="Base.Theme.Modulo5" />
+</resources>
+

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Modulo5</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inicio">inicio</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="el_lugar_m_s_seguro_para_tu_dinero">El lugar más seguro para tu dinero</string>
+    <string name="ya_tiene_cuenta">ya tiene cuenta?</string>
+    <string name="email">Email:</string>
+    <string name="contrase_a">Contraseña:</string>
+    <string name="crear_una_nueva_cuenta">Crear una nueva cuenta</string>
+    <string name="logo3">logo3</string>
+    <string name="realiza_tus_tansferencias">Realiza tus Tansferencias</string>
+    <string name="login">Login</string>
+    <string name="ya_tienes_una_cuenta">Ya tienes una cuenta?</string>
+    <string name="todo">TODO</string>
+    <string name="comienza_a_transferir">Comienza a Transferir</string>
+    <string name="reingresar_contrase_a">Reingresar Contraseña:</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="reingrese_contrase_a">Reingrese Contraseña</string>
+    <string name="email1">Email1</string>
+    <string name="contrase_a1">Contraseña1</string>
+    <string name="ingresar_dinero">Ingresar Dinero</string>
+    <string name="cantidad_a_ingresar">Cantidad a Ingresar</string>
+    <string name="visite_nuestro_link_de_informaci_n">Visite nuestro link de información</string>
+    <string name="deposite_su_dinero">Deposite su Dinero</string>
+    <string name="ingreso">Ingreso</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="_20_00">20,00</string>
+    <string name="todo3">TODO</string>
+    <string name="todo6">TODO</string>
+</resources>
